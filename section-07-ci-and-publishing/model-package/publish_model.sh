@@ -2,7 +2,7 @@
 
 # Building packages and uploading them to a Gemfury repository
 
-GEMFURY_URL=$GEMFURY_PUSH_URL
+GEMFURY_URL=https://j76Fp6nC92TCUys7osS9:@pypi.fury.io/kasidej/
 
 set -e
 
