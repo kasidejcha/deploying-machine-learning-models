@@ -311,7 +311,7 @@ workflows:
           filters:
             branches:
               only:
-                - master
+                - example-docker
 
 #  test-all:
 #    jobs:
